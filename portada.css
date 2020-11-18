@@ -1,0 +1,36 @@
+body{
+	background: url(portada.jpeg); 
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.botones{
+	position: absolute;
+	top: 410px;
+	left: 450px;
+
+}
+
+.boton1{
+	width: 80px;
+	height: 50px;
+}
+
+.boton1:hover{
+	width: 90px;
+	height: 60px;
+
+}
+
+.boton2{
+	width: 80px;
+	height: 50px;
+}
+
+.boton2:hover{
+	width: 90px;
+	height: 60px;
+
+}

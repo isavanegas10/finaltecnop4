@@ -1,0 +1,82 @@
+body{
+	background: url(cuento.jpg); 
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+.text{
+    font-family: Righteous, cursive;
+    text-decoration: underline;
+    text-decoration-style: none;
+    text-align: left;
+    font-size: 17px;
+    letter-spacing: -1px;
+    word-spacing: -1px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0);
+    text-shadow: rgba(0, 0, 0, 0) 2px 2px 2px;
+}
+
+.parrafo1{
+	width: 300px;
+	height: 100px;
+	position: absolute;
+	left:100px; 
+	top:70px;
+}
+
+.parrafo2{
+	width: 300px;
+	height: 100px;
+	position: absolute;
+	left:380px; 
+	top:250px;
+}
+
+.gif1{
+	position: absolute;
+	left: 500px;
+	top: 92px;
+	height: 100px;
+	width: 100px;
+}
+
+.gif2{
+	position: absolute;
+	left: 144px;
+	top: 270px;
+	height: 100px;
+	width: 100px;
+}
+
+.botones{
+	position: absolute;
+	top: 410px;
+	left: 450px;
+
+}
+
+.boton1{
+	width: 80px;
+	height: 50px;
+}
+
+.boton1:hover{
+	width: 90px;
+	height: 60px;
+
+}
+
+.boton2{
+	width: 80px;
+	height: 50px;
+}
+
+.boton2:hover{
+	width: 90px;
+	height: 60px;
+
+}
